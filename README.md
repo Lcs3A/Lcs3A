@@ -2,10 +2,10 @@
 
 Meu nome é Lucas
 
--Tenho 17 anos
--Gênero masculino
--Estou no Terceiro ano do ensino medio
--Este é o meu repositório do curso Alura
+- Tenho 17 anos
+- Gênero masculino
+- Estou no Terceiro ano do ensino medio
+- Este é o meu repositório do curso Alura
 
 ### Você pode entrar em contato comigo 📫
 
