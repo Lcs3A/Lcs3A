@@ -11,4 +11,4 @@ Meu nome é Lucas
 
 00001105749393sp@al.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/opihomm-funny-funny-memes-gif-25834042)
+![](https://media1.tenor.com/m/d4sPgSJml54AAAAC/opihomm-funny.gif)
